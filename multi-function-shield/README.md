@@ -1,0 +1,2 @@
+* Original article is [here](http://www.cohesivecomputing.co.uk/hackatronics/arduino-multi-function-shield/).
+* [Link](https://arduino.ua/prod2057-myltifynkcionalnii-ychebnii-shild-dlya-arduino-uno) to the Arduino.ua store.
